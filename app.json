@@ -6,11 +6,11 @@
   "headerURL": "https://pbs.twimg.com/profile_banners/1002228595278974977/1671556401/1500x500",
   "website": "https://example.com",
   "tintColor": "#674ea7",
-  "featuredApps": ["com.instadetox"],
+  "featuredApps": ["mell0w.InstaDetox"],
   "apps": [
     {
       "name": "InstaDetox",
-      "bundleIdentifier": "com.instadetox",
+      "bundleIdentifier": "mell0w.InstaDetox",
       "developerName": "mell0w",
       "subtitle": "To get rid of brainrot",
       "localizedDescription": "To get rid of brainrot",
