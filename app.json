@@ -1,0 +1,42 @@
+{
+  "name": "mell0w's Source",
+  "subtitle": "All my apps in one place.",
+  "description": "Welcome to my source! Here you'll find all of my apps.",
+  "iconURL": "https://pbs.twimg.com/profile_images/1605249838433636363/L65bGXSe_400x400.jpg",
+  "headerURL": "https://pbs.twimg.com/profile_banners/1002228595278974977/1671556401/1500x500",
+  "website": "https://example.com",
+  "tintColor": "#674ea7",
+  "featuredApps": ["com.instadetox"],
+  "apps": [
+    {
+      "name": "InstaDetox",
+      "bundleIdentifier": "com.instadetox",
+      "developerName": "mell0w",
+      "subtitle": "To get rid of brainrot",
+      "localizedDescription": "To get rid of brainrot",
+      "iconURL": "https://cdn.modrinth.com/data/fmWrNxMj/d1c02135f1108484dc3a5557aad8ab0152048343.png",
+      "tintColor": "#674ea7",
+      "screenshots": [],
+      "versions": [
+        {
+          "version": "1.0",
+          "date": "2025-07-04T07:00:00-08:00",
+          "size": 10000000,
+          "downloadURL": "https://firebasestorage.googleapis.com/v0/b/streaminggamestv.appspot.com/o/instadetox.ipa?alt=media&token=54b10370-6aa0-4060-a39e-d48b08b5b6b7",
+          "localizedDescription": "Initial release."
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [
+          "com.apple.security.application-groups",
+          "com.apple.developer.siri"
+        ],
+        "privacy": {
+          "NSCameraUsageDescription": "App uses camera to take photos.",
+          "NSMicrophoneUsageDescription": "App uses microphone to record video."
+        }
+      }
+    }
+  ],
+  "news": []
+}
